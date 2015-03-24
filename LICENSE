@@ -1,6 +1,8 @@
 This program created by Céline Libéral & Zoé Belleton is under GPL license.
-The FreeMono TTF font used to display text is this program is also under GPL.
 
-The source code is available there : https://bitbucket.org/celisoft/xylandia_valentine_quest
+The 2.73 directory contains the Blender Standalone Player in order to use the game engine (BGE).
+This player is also under GPL license.
+
+The source code is available there : https://git.framasoft.org/celisoft/leeks_vs_shotgun 
 
 A copy of the GPL license is available in the GPL file.
